@@ -1,5 +1,5 @@
-# : Ruka-won (h1)
-#### : Hello Java (h3)
+# Ruka-won
+### Hello Java
 
 # 🤖 안녕하세요. 저는 Ruka-won입니다. 🐯
 
